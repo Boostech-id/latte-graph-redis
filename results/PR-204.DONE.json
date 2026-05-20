@@ -1,0 +1,10 @@
+{
+  "pr": "PR-204",
+  "repo": "latte-graph-redis",
+  "status": "done",
+  "ci_status": "pass",
+  "version": "2.0.0",
+  "tests": 47,
+  "coverage": "97.73%",
+  "date": "2026-05-21"
+}
